@@ -17,4 +17,11 @@ The purpose of this task in ourproject is developing a web-based machine learnin
 
  # Prepared By:
  
- Ruba Saleh
+Ruba Saleh
+Rsaalrashed@sm.imamu.edu.sa
+Tahani Alotaibi
+tikalotaibi61@sm.imamu.edu.sa
+Layan abdullah Alshanfari 
+lamalshanfari@sm.imamu.edu.sa
+Amwaj Almutairi
+amzalmutari@sm.imamu.edu.sa
